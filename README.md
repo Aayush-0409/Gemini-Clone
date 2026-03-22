@@ -50,6 +50,9 @@ http://localhost:5173
 Enter your prompt in the chat box
 Get AI-generated responses instantly
 
+🔗Live Preview:
+https://gemini-clone-jade-sigma.vercel.app/
+
 📁 Project Structure:
 
 Gemini-Clone/
