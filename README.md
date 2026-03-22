@@ -29,17 +29,18 @@ Build Tool: Vite / NPM
 
 Follow these steps to run locally:
 
-# 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/Aayush-0409/Gemini-Clone.git
 
-# 2. Navigate into the project
+2. Navigate into the project
 cd Gemini-Clone
 
-# 3. Install dependencies
+3. Install dependencies
 npm install
 
-# 4. Add your Gemini API key
-# Create a .env file and add:
+4. Add your Gemini API key
+
+📁Create a .env file and add:
 VITE_GEMINI_API_KEY=your_api_key_here
 
 # 5. Run the app
@@ -65,8 +66,8 @@ Gemini-Clone/
 │── package.json
 │── vite.config.js
 
-🚧 Future Improvements:
 
+🚧 Future Improvements:
 
 🧠 Chat history storage
 🌙 Dark / Light mode
